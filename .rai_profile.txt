@@ -1,0 +1,12 @@
+profile:
+  id: 63d1ad8be687e526459ca0a3
+  firstname: Chang
+  lastname: Jeffrey
+  username: jdchang3
+  email: jdchang3@illinois.edu
+  access_key: auth0|63d1ad8c0c74475ffc345a1a
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkTkx2RWkrZy8wOUFTNWcya3ZaUzVuQSQyaFRpcWlKUmRpRFppNFpiSUEwd29yclNBdVM1emNrVlp1SDBYdkR6ZGs4
+  affiliation: ECE408
+  team:
+    name: ""
+  role: student
